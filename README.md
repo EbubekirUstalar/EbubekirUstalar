@@ -1,9 +1,7 @@
 ### Hi there I'm Ebubekir Ustalar👋
 
 - 💻 I'm a software engineer based in Istanbul.
-- 🍂 I used to write backend services using C# 
-- 🍃 I currently write backend services using Python Django
-- 🌱 I’m currently learning functional programming, lambda calculus. 
+- 🍃 I currently write backend services using Python, Django
 - 📫 You can reach me at: ebubekirustalar@gmail.com
 
   
